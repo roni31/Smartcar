@@ -1,0 +1,31 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "~4.9.x",
+    "express-session": "^1.10.4",
+    "jade": "^1.9.2",
+    "morgan": "^1.5.2",
+    "pubnub": "^3.7.9",
+    "simple-oauth2": "^0.2.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
